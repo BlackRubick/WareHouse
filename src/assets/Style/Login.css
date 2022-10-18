@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    background-image: url(../img/warehouse.jpg);
+}
+.form-register{
+width: 400px;
+background:rgb(255, 255, 255);
+padding: 30px;
+margin: auto;
+margin-top: 250px;
+border-radius: 40px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: white;
+box-shadow: 10px 13px 37px #000;
+}
+.form-register h4{
+font-size: 25px;
+margin-bottom: 20px;
+text-align: center;
+color: black;
+}
+.controls{
+    width: 100%;
+    background: white;
+    padding: 20px;
+    border-radius: 40px;
+    margin-bottom: 16px;
+    border: 1.5px solid black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+}
+.form-register .boton{
+    width: 100%;
+    background: black;
+   border-radius: 40px;
+    padding: 12px;
+    color: white;
+    margin: 16px 0 ;
+    font-size: 16px;
+}
